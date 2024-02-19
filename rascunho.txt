@@ -1,0 +1,41 @@
+Resources:
+
+NUT
+https://networkupstools.org/
+
+NUT - Eaton Powerware 9130
+https://networkupstools.org/ddl/Eaton/Powerware_9130.html
+
+Driver - usbhid-ups
+https://networkupstools.org/docs/man/usbhid-ups.html
+
+NUT - Eaton 9PX
+https://networkupstools.org/ddl/Eaton/9PX.html
+
+Configuring NUT for the Eaton 3S UPS on Ubuntu Linux
+https://srackham.wordpress.com/2013/02/27/configuring-nut-for-the-eaton-3s-ups-on-ubuntu-linux/
+
+EATON/MGE 5E UPS - driver not working
+https://askubuntu.com/questions/966070/eaton-mge-5e-ups-driver-not-working
+
+Network UPS Tools (NUT) Ultimate Guide
+https://technotim.live/posts/NUT-server-guide/
+
+Raspberry pi + Network UPS tools + mqtt 
+https://haefelfinger.ch/posts/2019/2019-11-20-using-network-ups-tools-and-mosquitto-part1/
+
+------------------------------------------------------------------------------------------------------------------------
+# upsdrvctl start
+
+Network UPS Tools - UPS driver controller 2.7.4
+Network UPS Tools - Generic HID driver 0.41 (2.7.4)
+USB communication driver 0.33
+Using subdriver: MGE HID 1.40
+
+------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------
